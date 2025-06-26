@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\bin\Debug\net9.0\лаб4.exe
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\bin\Debug\net9.0\лаб4.deps.json
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\bin\Debug\net9.0\лаб4.runtimeconfig.json
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\bin\Debug\net9.0\лаб4.dll
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\bin\Debug\net9.0\лаб4.pdb
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\obj\Debug\net9.0\лаб4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\obj\Debug\net9.0\лаб4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\obj\Debug\net9.0\лаб4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\obj\Debug\net9.0\лаб4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\obj\Debug\net9.0\лаб4.dll
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\obj\Debug\net9.0\refint\лаб4.dll
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\obj\Debug\net9.0\лаб4.pdb
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\obj\Debug\net9.0\лаб4.genruntimeconfig.cache
+C:\Users\Admin\Desktop\проекакго\лаб4\лаб4\obj\Debug\net9.0\ref\лаб4.dll
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\bin\Debug\net9.0\лаб4.exe
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\bin\Debug\net9.0\лаб4.deps.json
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\bin\Debug\net9.0\лаб4.runtimeconfig.json
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\bin\Debug\net9.0\лаб4.dll
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\bin\Debug\net9.0\лаб4.pdb
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\obj\Debug\net9.0\лаб4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\obj\Debug\net9.0\лаб4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\obj\Debug\net9.0\лаб4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\obj\Debug\net9.0\лаб4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\obj\Debug\net9.0\лаб4.dll
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\obj\Debug\net9.0\refint\лаб4.dll
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\obj\Debug\net9.0\лаб4.pdb
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\obj\Debug\net9.0\лаб4.genruntimeconfig.cache
+C:\Users\Admin\Desktop\проекты ИСП234\лаб4\лаб4\obj\Debug\net9.0\ref\лаб4.dll

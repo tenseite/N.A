@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\bin\Debug\net9.0\лаб 3 for.exe
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\bin\Debug\net9.0\лаб 3 for.deps.json
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\bin\Debug\net9.0\лаб 3 for.runtimeconfig.json
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\bin\Debug\net9.0\лаб 3 for.dll
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\bin\Debug\net9.0\лаб 3 for.pdb
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\obj\Debug\net9.0\лаб 3 for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\obj\Debug\net9.0\лаб 3 for.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\obj\Debug\net9.0\лаб 3 for.AssemblyInfo.cs
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\obj\Debug\net9.0\лаб 3 for.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\obj\Debug\net9.0\лаб 3 for.dll
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\obj\Debug\net9.0\refint\лаб 3 for.dll
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\obj\Debug\net9.0\лаб 3 for.pdb
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\obj\Debug\net9.0\лаб 3 for.genruntimeconfig.cache
+C:\Users\Admin\Desktop\проекакго\лаб 3 for\лаб 3 for\obj\Debug\net9.0\ref\лаб 3 for.dll
